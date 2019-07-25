@@ -1,0 +1,10 @@
+C:\Users\did13\Desktop\SCADA\LED_ON_OFF\LED_ON_OFF\bin\Release\LED_ON_OFF.exe.config
+C:\Users\did13\Desktop\SCADA\LED_ON_OFF\LED_ON_OFF\bin\Release\LED_ON_OFF.exe
+C:\Users\did13\Desktop\SCADA\LED_ON_OFF\LED_ON_OFF\bin\Release\LED_ON_OFF.pdb
+C:\Users\did13\Desktop\SCADA\LED_ON_OFF\LED_ON_OFF\obj\Release\LED_ON_OFF.csprojAssemblyReference.cache
+C:\Users\did13\Desktop\SCADA\LED_ON_OFF\LED_ON_OFF\obj\Release\LED_ON_OFF.Form1.resources
+C:\Users\did13\Desktop\SCADA\LED_ON_OFF\LED_ON_OFF\obj\Release\LED_ON_OFF.Properties.Resources.resources
+C:\Users\did13\Desktop\SCADA\LED_ON_OFF\LED_ON_OFF\obj\Release\LED_ON_OFF.csproj.GenerateResource.cache
+C:\Users\did13\Desktop\SCADA\LED_ON_OFF\LED_ON_OFF\obj\Release\LED_ON_OFF.csproj.CoreCompileInputs.cache
+C:\Users\did13\Desktop\SCADA\LED_ON_OFF\LED_ON_OFF\obj\Release\LED_ON_OFF.exe
+C:\Users\did13\Desktop\SCADA\LED_ON_OFF\LED_ON_OFF\obj\Release\LED_ON_OFF.pdb
